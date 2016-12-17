@@ -2,7 +2,7 @@
 /*
 Author : Muhammad Nur Yasir Utomo
 Email : yasirutomo@gmail.com
-*/
+*/ 
 include ('inc/config.php');
 ?>
 <!DOCTYPE html>
