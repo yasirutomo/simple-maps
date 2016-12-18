@@ -19,7 +19,7 @@ Sebagai gambaran, struktur simple maps sangat sederhana dengan bagian yang dapat
 * Import /database/gmaps.sql
 * simpan file Simple Maps pada direktori localhost (eg. windows: /htdocs, linux: /var/www)
 * Konfigurasi /inc/config.php
-* Pada file index.php dan tampil_map.php ubah **API_KEY** sesuai dengan API dari Google (read: read: https://developers.google.com/maps/documentation/javascript/get-api-key#get-an-api-key)
+* Pada file index.php dan tampil_map.php ubah **API_KEY** sesuai dengan API dari Google (read: https://developers.google.com/maps/documentation/javascript/get-api-key#get-an-api-key)
 * Selesai
 
 ## Kontributor
