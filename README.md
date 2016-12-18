@@ -10,8 +10,17 @@ Sebagai gambaran, struktur simple maps sangat sederhana dengan bagian yang dapat
 * **inc**: konfigurasi database (menggunakan mysql - PHP 5.6, untuk PHP 7.0 silahkan ubah ke mysqli)
 * **index.php**: halaman depan aplikasi
 * **input_lokasi.php**: proses input lokasi baru pada database
-* **tampil.php**: Menampilkan list lokasi yang sudah tersimpan dalam database
-* **tampil_map.php**: Menampilkan lokasi dalam map dengan parameter koordinat
+* **tampil.php**: menampilkan list lokasi yang sudah tersimpan dalam database
+* **tampil_map.php**: menampilkan lokasi dalam map dengan parameter koordinat
+
+## Instalasi
+
+* Buat database dengan nama gmaps
+* Import /database/gmaps.sql
+* simpan file Simple Maps pada direktori localhost (eg. windows: /htdocs, linux: /var/www)
+* Konfigurasi /inc/config.php
+* Pada file index.php dan tampil_map.php ubah **API_KEY** sesuai dengan API dari Google (read: read: https://developers.google.com/maps/documentation/javascript/get-api-key#get-an-api-key)
+* Selesai
 
 ## Kontributor
 
