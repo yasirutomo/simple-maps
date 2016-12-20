@@ -19,7 +19,7 @@ include ('inc/config.php');
       body { height: 100%; }
       #map-canvas { height: 100% }
     </style>
-    <!-- <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> --> <!-- old version, doesnt work in localhost -->
+    <!-- <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> --> <!-- old version, doesnt work in localhost --> 
     <script src="https://maps.googleapis.com/maps/api/js?key=API_KEY&sensor=false" type="text/javascript"></script>
   </head>
 
