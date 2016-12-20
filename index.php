@@ -9,7 +9,7 @@ include ('inc/config.php');
 <html lang="en">
  <head>
   <title>Input Maps - www.yasirblog.com</title>
-  <!-- <script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script> --> <!-- old version, doesnt work in localhost -->
+  <!-- <script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script> --> <!-- old version, doesnt work in localhost --> 
   <script src="https://maps.googleapis.com/maps/api/js?key=API_KEY&sensor=false" type="text/javascript"></script>
  </head>
  
