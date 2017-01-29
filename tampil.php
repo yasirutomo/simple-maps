@@ -12,7 +12,8 @@ include ('inc/config.php');
   </head>
   <body>
     <a href="index.php">Input Lokasi</a> | 
-    <a href="tampil.php">Lihat Daftar Lokasi </a><br/><br/>
+    <a href="tampil.php">Lihat Daftar Lokasi </a> |
+    <a href="semua.php">Semua Lokasi</a><br/><br/>
       <table border="1" >
         <tr>
           <td>No</td>
