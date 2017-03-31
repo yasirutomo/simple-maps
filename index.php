@@ -16,7 +16,8 @@ include ('inc/config.php');
  <body>
   <a href="index.php">Input Lokasi</a> | 
   <a href="tampil.php">Lihat Daftar Lokasi </a> |
-  <a href="semua.php">Semua Lokasi</a><br/><br/>
+  <a href="semua.php">Semua Lokasi</a> |
+  <a href="cusmark.php">Custom Marker</a><br/><br/>
   <div id="map" style="width:600px;height: 300px;"></div>
    <form   method="POST" id="form1" action="input_lokasi.php" class='form-horizontal'>
     <br/>
