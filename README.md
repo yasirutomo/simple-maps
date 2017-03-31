@@ -12,6 +12,8 @@ Sebagai gambaran, struktur simple maps sangat sederhana dengan bagian yang dapat
 * **input_lokasi.php**: proses input lokasi baru pada database
 * **tampil.php**: menampilkan list lokasi yang sudah tersimpan dalam database
 * **tampil_map.php**: menampilkan lokasi dalam map dengan parameter koordinat
+* **semua.php**: menampilkan semua lokasi secara bersamaan dalam map
+* **cusmark.php**: custom marker pada lokasi-lokasi tertentu pada map
 
 ## Instalasi
 
