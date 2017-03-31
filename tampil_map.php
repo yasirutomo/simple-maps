@@ -26,7 +26,8 @@ include ('inc/config.php');
   <body>
     <a href="index.php">Input Lokasi</a> | 
     <a href="tampil.php">Lihat Daftar Lokasi </a> |
-    <a href="semua.php">Semua Lokasi</a><br/><br/>
+    <a href="semua.php">Semua Lokasi</a> |
+    <a href="cusmark.php">Custom Marker</a><br/><br/>
     <h3>Lokasi : <?php echo $dcari['nama']; ?></h3>
     <div id="map-canvas" style="max-width:500px;max-height: 300px;"/>
   </body>
