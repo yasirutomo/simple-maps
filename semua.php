@@ -65,7 +65,6 @@ include ('inc/config.php');
    </script>
 
  </head>
- 
  <body>
   <a href="index.php">Input Lokasi</a> | 
   <a href="tampil.php">Lihat Daftar Lokasi </a> |
